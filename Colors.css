@@ -1,0 +1,58 @@
+/* =============================================================
+   SlateDust — Quiet focus
+   https://github.com/l0yst/slatedust
+   License: MIT
+   ============================================================= */
+
+:root {
+  /* ── Surfaces ─────────────────────────────────────────────── */
+  --sd-bg: #1c2023;
+  --sd-bg-raised: #252a2d;
+  --sd-bg-overlay: #2e3438;
+  --sd-bg-border: #3a4044;
+
+  /* ── Text ─────────────────────────────────────────────────── */
+  --sd-text-dim: #505a61;
+  --sd-text-muted: #7a858e;
+  --sd-text-base: #c0c8cf;
+  --sd-text-bright: #dde2e6;
+
+  /* ── Accent Palette ───────────────────────────────────────── */
+  --sd-terracotta: #c4a98a;
+  --sd-sand: #c2bf88;
+  --sd-sage: #a8c292;
+  --sd-teal: #8fc2ad;
+  --sd-sky: #8bafc4;
+  --sd-lavender: #a699c4;
+  --sd-mauve: #c294b2;
+  --sd-rose: #c49494;
+
+  /* ── Semantic Aliases — Syntax ────────────────────────────── */
+  --sd-syn-keyword: var(--sd-lavender);
+  --sd-syn-function: var(--sd-sky);
+  --sd-syn-type: var(--sd-teal);
+  --sd-syn-string: var(--sd-sage);
+  --sd-syn-number: var(--sd-sand);
+  --sd-syn-constant: var(--sd-mauve);
+  --sd-syn-operator: var(--sd-rose);
+  --sd-syn-comment: var(--sd-text-dim);
+  --sd-syn-error: var(--sd-terracotta);
+
+  /* ── Semantic Aliases — UI ────────────────────────────────── */
+  --sd-ui-accent: var(--sd-sky);
+  --sd-ui-success: var(--sd-sage);
+  --sd-ui-warning: var(--sd-sand);
+  --sd-ui-error: var(--sd-terracotta);
+  --sd-ui-info: var(--sd-teal);
+
+  /* ── Semantic Aliases — Git ───────────────────────────────── */
+  --sd-git-added: var(--sd-sage);
+  --sd-git-modified: var(--sd-sky);
+  --sd-git-deleted: var(--sd-rose);
+  --sd-git-conflict: var(--sd-terracotta);
+
+  /* ── Typography ───────────────────────────────────────────── */
+  --sd-font-sans: "DM Sans";
+  --sd-font-mono: "JetBrains Mono";
+  --sd-font-icon: "Symbols Nerd Font";
+}
