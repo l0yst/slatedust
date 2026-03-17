@@ -68,7 +68,8 @@ SlateDust is a dark color theme built around quiet focus. A cool-grey base with 
 | Awesome WM | 🚧 in progress |
 | Neovim | planned |
 | Alacritty | planned |
-| Kitty | planned |
+| Wezterm | Done |
+| Kitty | Done |
 | GTK | planned |
  
 &nbsp;
