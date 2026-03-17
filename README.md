@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" width="600" />
+  <img src="assets/cover.png" width="700" />
 </p>
  
 &nbsp;
@@ -66,11 +66,10 @@ SlateDust is a dark color theme built around quiet focus. A cool-grey base with 
 | App | Status |
 |-----|--------|
 | Awesome WM | 🚧 in progress |
-| Neovim | planned |
-| Alacritty | planned |
-| Wezterm | Done |
-| Kitty | Done |
-| GTK | planned |
+| Neovim | 📋 planned |
+| Wezterm | ✅  Done |
+| Kitty | ✅  Done |
+| GTK | 📋 planned |
  
 &nbsp;
  
