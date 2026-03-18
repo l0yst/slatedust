@@ -1,25 +1,28 @@
 <p align="center">
-  <img src="assets/cover.png" width="700" />
+  <img src="assets/cover.png" width="800" />
 </p>
  
 &nbsp;
  
 <p align="center">
   <a href="https://github.com/l0yst/slatedust/stargazers">
-    <img src="https://img.shields.io/github/stars/l0yst/slatedust?colorA=1c2023&colorB=8bafc4&style=for-the-badge&logo=starship&logoColor=c0c8cf">
+    <img src="https://img.shields.io/github/stars/l0yst/slatedust?colorA=1c2023&colorB=8bafc4&style=for-the-badge&logoColor=c0c8cf">
+  </a>
+  <a href="https://github.com/l0yst/slatedust/commits/main">
+    <img src="https://img.shields.io/github/last-commit/l0yst/slatedust?colorA=1c2023&colorB=a699c4&style=for-the-badge&logoColor=c0c8cf">
   </a>
   <a href="https://github.com/l0yst/slatedust/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/l0yst/slatedust?colorA=1c2023&colorB=a8c292&style=for-the-badge&logoColor=c0c8cf">
   </a>
   <a href="https://github.com/l0yst/slatedust/issues">
-    <img src="https://img.shields.io/github/issues/l0yst/slatedust?colorA=1c2023&colorB=c4a98a&style=for-the-badge&logo=gitbook&logoColor=c0c8cf">
+    <img src="https://img.shields.io/github/issues/l0yst/slatedust?colorA=1c2023&colorB=c4a98a&style=for-the-badge&logoColor=c0c8cf">
   </a>
-</p>
- 
+</p> 
 &nbsp;
  
 <p align="center">
-SlateDust is a dark color theme built around quiet focus. A cool-grey base with warm, desaturated accents — calm enough to work in for hours, distinct enough to feel like yours. Designed for terminals, editors, and desktop environments. No neon, no noise.
+SlateDust — a dark theme born out of months of ricing.
+Cool-grey base, eight muted accents. Calm, focused, yours.
 </p>
  
 &nbsp;
@@ -61,7 +64,7 @@ SlateDust is a dark color theme built around quiet focus. A cool-grey base with 
  
 ## Ports
  
-> Ports coming soon. Want to contribute one? Open an issue or PR.
+> Want to contribute or request a specific one? Open an issue.
  
 | App | Status |
 |-----|--------|
@@ -69,7 +72,7 @@ SlateDust is a dark color theme built around quiet focus. A cool-grey base with 
 | [Alacritty](ports/alacritty/slatedust.toml) | ✅ Done |
 | [Wezterm](ports/wezterm/slatedust.lua) | ✅ Done |
 | Awesome WM | 🚧 in progress |
-| [Neovim](https://github.com/l0yst/slatedust.nvim) | 📋 planned |
+| [Neovim](https://github.com/l0yst/slatedust.nvim) | ✅ Done |
 | GTK | 📋 planned |
  
 &nbsp;
