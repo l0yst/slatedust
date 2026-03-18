@@ -65,10 +65,11 @@ SlateDust is a dark color theme built around quiet focus. A cool-grey base with 
  
 | App | Status |
 |-----|--------|
+| [Kitty](ports/kitty/slatedust.conf) | ✅ Done |
+| [Alacritty](ports/alacritty/slatedust.toml) | ✅ Done |
+| [Wezterm](ports/wezterm/slatedust.lua) | ✅ Done |
 | Awesome WM | 🚧 in progress |
-| Neovim | 📋 planned |
-| Wezterm | ✅  Done |
-| Kitty | ✅  Done |
+| [Neovim](https://github.com/l0yst/slatedust.nvim) | 📋 planned |
 | GTK | 📋 planned |
  
 &nbsp;

@@ -1,0 +1,90 @@
+# ================================================================
+#  alacritty.toml — full config
+#  theme: SlateDust (https://github.com/l0yst/slatedust)
+# ================================================================
+
+# ── Window ───────────────────────────────────────────────────────
+[window]
+padding.x         = 10
+padding.y         = 10
+decorations       = "full"
+opacity           = 1.0
+blur              = false
+title             = "Alacritty"
+dynamic_title     = true
+
+# ── Scrolling ────────────────────────────────────────────────────
+[scrolling]
+history    = 5000
+multiplier = 3
+
+# ── Font ─────────────────────────────────────────────────────────
+[font]
+size = 11.0
+
+[font.normal]
+family = "JetBrains Mono"
+style  = "Regular"
+
+[font.bold]
+family = "JetBrains Mono"
+style  = "Bold"
+
+[font.italic]
+family = "JetBrains Mono"
+style  = "Italic"
+
+[font.bold_italic]
+family = "JetBrains Mono"
+style  = "Bold Italic"
+
+# ── Cursor ───────────────────────────────────────────────────────
+[cursor]
+style.shape     = "Block"
+style.blinking  = "Never"
+vi_mode_style.shape = "Underline"
+
+# ── Colors — SlateDust ───────────────────────────────────────────
+[colors.primary]
+background = "#1c2023"
+foreground = "#c0c8cf"
+
+[colors.cursor]
+cursor = "#8bafc4"
+text   = "#1c2023"
+
+[colors.selection]
+background = "#2e3438"
+text       = "#dde2e6"
+
+[colors.normal]
+black   = "#1c2023"
+red     = "#c4a98a"
+green   = "#a8c292"
+yellow  = "#c2bf88"
+blue    = "#8bafc4"
+magenta = "#a699c4"
+cyan    = "#8fc2ad"
+white   = "#c0c8cf"
+
+[colors.bright]
+black   = "#505a61"
+red     = "#c4a98a"
+green   = "#a8c292"
+yellow  = "#c2bf88"
+blue    = "#8bafc4"
+magenta = "#c294b2"
+cyan    = "#8fc2ad"
+white   = "#dde2e6"
+
+[colors.hints.start]
+foreground = "#1c2023"
+background = "#8bafc4"
+
+[colors.hints.end]
+foreground = "#1c2023"
+background = "#3a4044"
+
+# ── Mouse ────────────────────────────────────────────────────────
+[mouse]
+hide_when_typing = true
