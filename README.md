@@ -3,28 +3,16 @@
 </p>
  
 &nbsp;
- 
-<p align="center">
-  <a href="https://github.com/l0yst/slatedust/stargazers">
-    <img src="https://img.shields.io/github/stars/l0yst/slatedust?colorA=1c2023&colorB=8bafc4&style=for-the-badge&logoColor=c0c8cf">
-  </a>
-  <a href="https://github.com/l0yst/slatedust/commits/main">
-    <img src="https://img.shields.io/github/last-commit/l0yst/slatedust?colorA=1c2023&colorB=a699c4&style=for-the-badge&logoColor=c0c8cf">
-  </a>
-  <a href="https://github.com/l0yst/slatedust/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/l0yst/slatedust?colorA=1c2023&colorB=a8c292&style=for-the-badge&logoColor=c0c8cf">
-  </a>
-  <a href="https://github.com/l0yst/slatedust/issues">
-    <img src="https://img.shields.io/github/issues/l0yst/slatedust?colorA=1c2023&colorB=c4a98a&style=for-the-badge&logoColor=c0c8cf">
-  </a>
-</p> 
-&nbsp;
- 
+
 <p align="center">
 SlateDust — a dark theme born out of months of ricing.
-Cool-grey base, eight muted accents. Calm, focused, yours.
+Cool-grey base, eight muted accents. Calm, focused.
 </p>
  
+<p align="center">
+  <a href="https://github.com/l0yst/slatedust/stargazers"><img src="https://img.shields.io/github/stars/l0yst/slatedust?colorA=1c2023&colorB=8bafc4&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/commits/main"><img src="https://img.shields.io/github/last-commit/l0yst/slatedust?colorA=1c2023&colorB=a699c4&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/blob/main/LICENSE"><img src="https://img.shields.io/github/license/l0yst/slatedust?colorA=1c2023&colorB=a8c292&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/issues"><img src="https://img.shields.io/github/issues/l0yst/slatedust?colorA=1c2023&colorB=c4a98a&style=for-the-badge&logoColor=c0c8cf"></a>
+</p>
+  
 &nbsp;
  
 ## Palette
