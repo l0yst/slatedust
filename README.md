@@ -1,8 +1,6 @@
 <p align="center">
   <img src="assets/cover.png" width="800" />
 </p>
- 
-&nbsp;
 
 <p align="center">
 SlateDust — a dark theme born out of months of ricing.
