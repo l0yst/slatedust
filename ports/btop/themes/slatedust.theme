@@ -1,0 +1,69 @@
+# ================================================================
+#  SlateDust — btop theme port
+#  https://github.com/l0yst/slatedust
+# ================================================================
+
+theme[main_bg]="#1c2023"
+theme[main_fg]="#c0c8cf"
+theme[title]="#dde2e6"
+theme[hi_fg]="#8bafc4"
+theme[selected_bg]="#2e3438"
+theme[selected_fg]="#8bafc4"
+theme[inactive_fg]="#505a61"
+theme[graph_text]="#7a858e"
+theme[meter_bg]="#2e3438"
+theme[proc_misc]="#c0c8cf"
+
+# Box outlines
+theme[cpu_box]="#a699c4"
+theme[mem_box]="#a8c292"
+theme[net_box]="#c294b2"
+theme[proc_box]="#8bafc4"
+
+# Dividers
+theme[div_line]="#3a4044"
+
+# Temperature (sage -> sand -> terracotta)
+theme[temp_start]="#a8c292"
+theme[temp_mid]="#c2bf88"
+theme[temp_end]="#c4a98a"
+
+# CPU graph (sky -> lavender)
+theme[cpu_start]="#8bafc4"
+theme[cpu_mid]="#9aa4bc"
+theme[cpu_end]="#a699c4"
+
+# Mem/Disk free (teal -> sky)
+theme[free_start]="#8fc2ad"
+theme[free_mid]="#8bb8b8"
+theme[free_end]="#8bafc4"
+
+# Mem/Disk cached (sky -> lavender)
+theme[cached_start]="#8bafc4"
+theme[cached_mid]="#9aa4bc"
+theme[cached_end]="#a699c4"
+
+# Mem/Disk available (sand -> terracotta)
+theme[available_start]="#c2bf88"
+theme[available_mid]="#c3b488"
+theme[available_end]="#c4a98a"
+
+# Mem/Disk used (sage -> teal)
+theme[used_start]="#a8c292"
+theme[used_mid]="#9bc29d"
+theme[used_end]="#8fc2ad"
+
+# Download (mauve -> rose)
+theme[download_start]="#c294b2"
+theme[download_mid]="#c394a3"
+theme[download_end]="#c49494"
+
+# Upload (teal -> sky)
+theme[upload_start]="#8fc2ad"
+theme[upload_mid]="#8db9b8"
+theme[upload_end]="#8bafc4"
+
+# Process gradient (sky -> lavender)
+theme[process_start]="#8bafc4"
+theme[process_mid]="#9aa4bc"
+theme[process_end]="#a699c4"

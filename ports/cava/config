@@ -1,0 +1,15 @@
+# ================================================================
+#  SlateDust — cava color port
+#  https://github.com/l0yst/slatedust
+# ================================================================
+ 
+[color]
+background      = '#1c2023'
+gradient        = 1
+gradient_count  = 6
+gradient_color_1 = '#8bafc4'   
+gradient_color_2 = '#8fc2ad'   
+gradient_color_3 = '#a8c292'   
+gradient_color_4 = '#a699c4'
+gradient_color_5 = '#c294b2'
+gradient_color_6 = '#c49494'

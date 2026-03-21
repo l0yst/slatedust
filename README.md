@@ -8,7 +8,9 @@
 SlateDust — a dark theme born out of months of ricing.
 Cool-grey base, eight muted accents. Calm, focused.
 </p>
- 
+
+&nbsp;
+
 <p align="center">
   <a href="https://github.com/l0yst/slatedust/stargazers"><img src="https://img.shields.io/github/stars/l0yst/slatedust?colorA=1c2023&colorB=8bafc4&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/commits/main"><img src="https://img.shields.io/github/last-commit/l0yst/slatedust?colorA=1c2023&colorB=a699c4&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/blob/main/LICENSE"><img src="https://img.shields.io/github/license/l0yst/slatedust?colorA=1c2023&colorB=a8c292&style=for-the-badge&logoColor=c0c8cf"></a>&nbsp;<a href="https://github.com/l0yst/slatedust/issues"><img src="https://img.shields.io/github/issues/l0yst/slatedust?colorA=1c2023&colorB=c4a98a&style=for-the-badge&logoColor=c0c8cf"></a>
 </p>
@@ -56,12 +58,17 @@ Cool-grey base, eight muted accents. Calm, focused.
  
 | App | Status |
 |-----|--------|
+| Awesome WM | 🚧 in progress |
+| GTK | 📋 planned |
 | [Kitty](ports/kitty/slatedust.conf) | ✅ Done |
 | [Alacritty](ports/alacritty/slatedust.toml) | ✅ Done |
 | [Wezterm](ports/wezterm/slatedust.lua) | ✅ Done |
-| Awesome WM | 🚧 in progress |
+| [Cava](ports/cava/config) | ✅ Done |
+| [Bat](ports/bat/slatedust.tmTheme) | ✅ Done |
+| [Btop++](ports/btop/themes/slatedust.theme) | ✅ Done |
+| [Zed](https://github.com/l0yst/slatedust-zed) | ✅ Done |
 | [Neovim](https://github.com/l0yst/slatedust.nvim) | ✅ Done |
-| GTK | 📋 planned |
+
  
 &nbsp;
  
