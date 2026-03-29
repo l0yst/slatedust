@@ -56,8 +56,8 @@ Cool-grey base, eight muted accents. Calm, focused.
  
 | App | Status |
 |-----|--------|
-| Awesome WM | 🚧 in progress |
-| GTK | 📋 planned |
+| [Awesome WM](https://github.com/l0yst/stash/tree/slatedust) | ✅ Done |
+| GTK | 📋 In Progress |
 | [Kitty](ports/kitty/slatedust.conf) | ✅ Done |
 | [Alacritty](ports/alacritty/slatedust.toml) | ✅ Done |
 | [Wezterm](ports/wezterm/slatedust.lua) | ✅ Done |
